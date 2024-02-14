@@ -38,7 +38,7 @@ export const quizQuestionsNew = {
     },
     {
       question:
-        "Where did obi's first see the Grammy award winning pop Star Bianca Baz?",
+        "Where did obi first see the Grammy award winning pop Star Bianca Baz?",
       choices: ["Mezzos's Corner", "Orii Jam"],
       type: "MCQs",
       correctAnswer: "Orii Jam",
