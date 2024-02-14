@@ -16,7 +16,7 @@ export default function Home() {
         </div>
         <>
           <video width="750" height="500" controls>
-            <source src="/egg.MOV" type="video/mp4" />
+            <source src="/egg.mp4" type="video/mp4" />
           </video>
         </>
         <Link passHref href={"/quiz"}>

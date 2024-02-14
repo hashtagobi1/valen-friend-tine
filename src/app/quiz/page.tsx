@@ -74,7 +74,7 @@ const Quiz = () => {
           {questions[activeQuestion].media ? (
             <>
               <video width="750" height="500" controls>
-                <source src="/oooyea.MOV" type="video/mp4" />
+                <source src="/oooyea.mp4" type="video/mp4" />
               </video>
             </>
           ) : null}
